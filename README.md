@@ -14,11 +14,11 @@ As a senior frontend & backend web developer, I have rich experience & history f
 - 🐱‍🐉 <b>CMS</b> : Wordpress, Shopify, Magento, Prestashop.
 - 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python
 
-<p align="center">
+<p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=talentedexpert0057&column=7&theme=onedark"/>
 </p>
 
-<p align="left"> 
+<p align="center"> 
 
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
