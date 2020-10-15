@@ -5,9 +5,12 @@ As a senior frontend & backend web developer, I have rich experience & history f
 
 <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | AWS | BOT | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
 
+
 ## Core skills
 
 - 🔭 I am ready to start your project anytime.
+- 👏 Feel free to email me if you have an Idea or project. [ petpanda0057@hotmail.com ]
+
 - 🌱 <b>Front-end</b> : React js - Redux / Next.js / TypeScript / Vue.js /Angular 5,6,7,8,910 /JQuery / Bootstrap 3,4
 - 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel
 - 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL
@@ -17,6 +20,8 @@ As a senior frontend & backend web developer, I have rich experience & history f
 <p align="center" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=talentedexpert0057&column=7&theme=onedark"/>
 </p>
+
+## Used Skills & Tools
 
 <p align="center"> 
 
@@ -197,21 +202,6 @@ As a senior frontend & backend web developer, I have rich experience & history f
 <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 </a> </p>
-
-
-<details open>
-<summary > ✌ <b>Let's start work with me</b>: </summary>
-<br>
-
-```
-- 👨🏽‍💻 You only have your idea.
-- 🤝 You reached out with me and you will get the perfect solution.
-- 👨 I will recommend to you the best programming language and framework for your project.
-- 🌐 Let's Get started collaborate with me on the project.
-- 👋 Finally, you will get perfect deliverable & succeed at your business with my help.
-
-``` 
-</details>
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
@@ -219,21 +209,4 @@ As a senior frontend & backend web developer, I have rich experience & history f
   <img src = "https://github-readme-stats.vercel.app/api?username=talentedexpert0057&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=talentedexpert0057&hide=css,java,html&theme=tokyonight">
 </p>
-</details>
-
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-
-<!--START_SECTION:waka-->
-**I'm working on full-time 🐤** 
-
-```text
-🌞 Morning    103 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.53% 
-🌆 Daytime    210 commits    ████████░░░░░░░░░░░░░░░░░   33.71% 
-🌃 Evening    232 commits    █████████░░░░░░░░░░░░░░░░   37.24% 
-🌙 Night      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52%
-
-```
-
 </details>
