@@ -18,7 +18,6 @@ As a senior frontend & backend web developer, I have rich experience & history f
     <img src="https://github-profile-trophy.vercel.app/?username=talentedexpert0057&column=7&theme=onedark"/>
 </p>
 
-## Skills and Tools:
 <p align="left"> 
 
 <a href="https://reactjs.org/" target="_blank"> 
