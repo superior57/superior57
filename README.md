@@ -1,5 +1,5 @@
 ## Hi 👋👋👋 Welcome to my profile.
-<span style="font-size: 5rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
+<span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
 
 As a senior frontend & backend web developer, I have rich experience & history for 8 years over in the web field.
 
