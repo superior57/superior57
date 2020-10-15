@@ -3,7 +3,7 @@
 
 As a senior frontend & backend web developer, I have rich experience & history for 8 years over in the web field.
 
-<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | AWS | BOT | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV
+<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | AWS | BOT | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV | Web Scraping
 
 ## Core skills
 
