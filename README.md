@@ -203,9 +203,9 @@ Talking about Personal Stuffs:
 
 ```
 - 👨🏽‍💻 You only have your idea.
-- 🤝 You reached out with me and you get the perfect solution.
-- 👨 I recommend to you the best programming language and framework for your project.
-- 🌐 Get started collaborate with me on the project.
+- 🤝 You reached out with me and you will get the perfect solution.
+- 👨 I will recommend to you the best programming language and framework for your project.
+- 🌐 Let's Get started collaborate with me on the project.
 - 👋 Finally, you will get perfect deliverable & succeed at your business with my help.
 
 ``` 
