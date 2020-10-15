@@ -17,7 +17,7 @@ As a senior frontend & backend web developer, I have rich experience & history f
 - 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=talentedexpert0057&column=7&theme=onedark"/>
 </p>
 
 ## Skills and Tools:
