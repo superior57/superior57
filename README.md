@@ -207,6 +207,6 @@ As a senior frontend & backend web developer, I have rich experience & history f
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=talentedexpert0057&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=talentedexpert0057&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tortu-ch&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true">
 </p>
 </details>
