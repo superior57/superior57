@@ -3,13 +3,14 @@
 
 As a senior frontend & backend web developer, I have rich experience & history for 8 years over in the web field.
 
-Talking about Personal Stuffs:
+<b>--- Core skills ---</b>
 
-- 🔭 I’m currently working on Laravel projects.
-- 🌱 I’m currently learning **AR**.
-- 👨‍💻 All of my projects are available at [DevDreamCatch](https://github.com/devdreamcatch).
-- 💬 Ask me about **MERN, MEAN, VueJS, Laravel, Symfony, Django**.
-- 📫 How to reach me
+- 🔭 I am ready to start your project anytime.
+- 🌱 <b>Front-end</b> => React js - Redux / Next.js / TypeScript / Vue.js /Angular 5,6,7,8,910 /JQuery / Bootstrap 3,4
+- 👨‍💻 <b>Back-end</b> => Node.js / Express / Django / Laravel
+- 💬 <b>Database</b> => Mysql / MongoDB / PostgreSQL
+- 🐱‍🐉 <b>CMS</b> => Wordpress, Shopify, Magento, Prestashop.
+- 📫 <b>Programming-languages</b> => JavaScript / HTML / CSS / PHP / Python
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=devdreamsolution&column=7&theme=onedark"/>
