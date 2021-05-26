@@ -11,9 +11,9 @@ As a senior frontend & backend web developer, I have rich experience & history f
 
 - 🔭 I am ready to start your project anytime.
 
-- 🌱 <b>Front-end</b> : React js - Redux / Next.js / TypeScript / Vue.js /Angular 5,6,7,8,910 /JQuery / Bootstrap 3,4
+- 🌱 <b>Front-end</b> : React js - Redux / Next.js / TypeScript / Vue.js /Angular 5,6,7,8,910 /JQuery / Bootstrap 3,4 / React Native / Flutter
 - 👨‍💻 <b>Back-end</b> : Node.js / Express / Django / Laravel
-- 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL
+- 💬 <b>Database</b> : Mysql / MongoDB / PostgreSQL / MariaDB / SQlite
 - 🐱‍🐉 <b>CMS</b> : Wordpress, Shopify, Magento, Prestashop.
 - 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python
 
