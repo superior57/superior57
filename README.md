@@ -53,8 +53,8 @@
   <li>I am full stack developer of <a href="https://nuro.video/en/" ><b>Nuro Video</b></a> </li>
   <li>with 8+ years of rich experience in software development of Web & Mobile apps.</li>
   <li>who is very proficient in both Frontend and Backend.</li>
-  <liwho successfully implemented client's ideas a lot into reality and solved many business needs.</li>
-  <who enjoys taking part in meaningful, innovative and complex projects that I can pour my passion into.</li>
+  <li>who successfully implemented client's ideas a lot into reality and solved many business needs.</li>
+  <li>who enjoys taking part in meaningful, innovative and complex projects that I can pour my passion into.</li>
 </ul>
 <h3>Where to find me</h3>
 <p>
