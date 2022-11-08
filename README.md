@@ -56,6 +56,26 @@
   <li>who successfully implemented client's ideas a lot into reality and solved many business needs.</li>
   <li>who enjoys taking part in meaningful, innovative and complex projects that I can pour my passion into.</li>
 </ul>
+
+<h3>Benefits</h3>
+<ul>
+  <li>Focus on 100% client's satisfaction.</li>
+  <li>Good communication in English.</li>
+  <li>Good team working spirit in Dev Teams.</li>
+  <li>Good understanding of Agile/Scrum methodology.</li>
+  <li>Good quality delivery with good software design principles such as SOLID and design patterns.</li>
+  <li>Quick problem solver.</li>
+  <li>Flexible working time zone according to clients'.</li>
+</ul>
+
+<h3>Personality</h3>
+<ul>
+  <li>Honest.</li>
+  <li>Humble.</li>
+  <li>Passionate.</li>
+</ul>
+
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/superior57" target="_blank">
