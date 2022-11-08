@@ -50,7 +50,7 @@
 <h3>About me</h3>
 <ul>
   <li><a href="https://websuperior57.netlify.app/resume/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> My profile</b></a><br/><i>ELITE. DEV - Senior Full Stack Developer</i></li>
-  <li>I am full stack developer of <a href="https://nuro.video/en/" ><b>Nuro Video</b></a> </li>
+  <li>I am PM/Full-stack/Core Developer of <a href="https://nuro.video/en/" ><b>Nuro Video</b></a> </li>
   <li>with 8+ years of rich experience in software development of Web & Mobile apps.</li>
   <li>who is very proficient in both Frontend and Backend.</li>
   <li>who successfully implemented client's ideas a lot into reality and solved many business needs.</li>
