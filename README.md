@@ -94,6 +94,9 @@ If you're looking for an independent developer who is really proficient and have
 <a href="https://t.me/superior57" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/Telegram-%2312100E.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
+<a href="https://wa.me/+13156365347" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/Whatsapp-%1ad03f.svg?&style=for-the-badge&logo=Whatsapp&logoColor=white" />
+</a>
 </p>
 
 ---
