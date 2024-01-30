@@ -50,7 +50,7 @@
 <h3>About me</h3>
 <ul>
   <li>I am PM/Full-stack/Core Developer of <a href="https://nuro.video/en/" ><b>Nuro Video</b></a> </li>
-  <li>with 8+ years of rich experience in software development of Web & Mobile apps.</li>
+  <li>with 6+ years of rich experience in software development of Web & Mobile apps.</li>
   <li>who is very proficient in both Frontend and Backend.</li>
   <li>who successfully implemented client's ideas a lot into reality and solved many business needs.</li>
   <li>who enjoys taking part in meaningful, innovative and complex projects that I can pour my passion into.</li>
