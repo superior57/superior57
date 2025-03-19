@@ -59,7 +59,6 @@
 <h3>Benefits</h3>
 <ul>
   <li>Focus on 100% client's satisfaction.</li>
-  <li>Good communication in English.</li>
   <li>Good team working spirit in Dev Teams.</li>
   <li>Good understanding of Agile/Scrum methodology.</li>
   <li>Good quality delivery with good software design principles such as SOLID and design patterns.</li>
